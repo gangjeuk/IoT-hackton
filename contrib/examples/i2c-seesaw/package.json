@@ -1,9 +1,0 @@
-{
-  "name": "i2c-seesaw-example",
-  "version": "1.0.0",
-  "private": true,
-  "dependencies": {
-    "@chirimen/seesaw": "latest",
-    "@chirimen-raspi/polyfill": "latest"
-  }
-}

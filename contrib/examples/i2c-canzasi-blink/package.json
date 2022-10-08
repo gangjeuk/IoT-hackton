@@ -1,9 +1,0 @@
-{
-  "name": "i2c-canzasi-blink-example",
-  "version": "1.0.0",
-  "private": true,
-  "dependencies": {
-    "@chirimen/canzasi": "latest",
-    "@chirimen-raspi/polyfill": "latest"
-  }
-}

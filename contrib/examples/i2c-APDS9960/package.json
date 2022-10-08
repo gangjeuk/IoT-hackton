@@ -1,9 +1,0 @@
-{
-  "name": "i2c-apds9960-example",
-  "version": "1.0.0",
-  "private": true,
-  "dependencies": {
-    "@chirimen/apds9960": "latest",
-    "@chirimen-raspi/polyfill": "latest"
-  }
-}

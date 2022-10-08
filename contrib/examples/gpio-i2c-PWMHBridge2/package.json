@@ -1,9 +1,0 @@
-{
-  "name": "gpio-i2c-pwmhbridge2-example",
-  "version": "1.0.0",
-  "private": true,
-  "dependencies": {
-    "@chirimen/pca9685-pwm": "latest",
-    "@chirimen-raspi/polyfill": "latest"
-  }
-}
