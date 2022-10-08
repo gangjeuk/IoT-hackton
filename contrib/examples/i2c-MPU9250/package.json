@@ -1,0 +1,10 @@
+{
+  "name": "i2c-mpu9250-example",
+  "version": "1.0.0",
+  "private": true,
+  "dependencies": {
+    "@chirimen/ak8963": "latest",
+    "@chirimen/mpu6500": "latest",
+    "@chirimen-raspi/polyfill": "latest"
+  }
+}

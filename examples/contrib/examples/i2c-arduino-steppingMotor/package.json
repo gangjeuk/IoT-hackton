@@ -1,0 +1,9 @@
+{
+  "name": "i2c-arduino-stepping-motor-example",
+  "version": "1.0.0",
+  "private": true,
+  "dependencies": {
+    "@chirimen/arduino-stepping-motor": "latest",
+    "@chirimen-raspi/polyfill": "latest"
+  }
+}

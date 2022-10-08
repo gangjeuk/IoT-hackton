@@ -1,0 +1,14 @@
+{
+  "name": "@chirimen-raspi/polyfill",
+  "version": "1.0.6",
+  "main": "polyfill.js",
+  "publishConfig": {
+    "access": "public"
+  },
+  "scripts": {
+    "jsdoc": "rm -rf jsdoc/ && jsdoc -d jsdoc polyfill.js"
+  },
+  "devDependencies": {
+    "jsdoc": "^3.6.6"
+  }
+}
